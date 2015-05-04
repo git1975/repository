@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>pluginbuddy</artifactId>
+  <packaging>zip</packaging>
+  <version>0.3</version>
+  <name>Pluginbuddy identifies resources/assets from enduser app version</name>
+  <description>Outputs resources or assets for you to decide on what to do within your plugin. Does the calculation for your plugin to output according to end users resources/assets based sites,</description>
+  <url>https://github.com/vahidhedayati/grails-pluginbuddy-plugin</url>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Vahid Hedayati</name>
+      <email>badvad@gmail.com</email>
+    </developer>
+  </developers>
+  <issueManagement>
+    <system>GITHUB</system>
+    <url>https://github.com/vahidhedayati/grails-pluginbuddy-plugin/issues</url>
+  </issueManagement>
+  <scm>
+    <url>https://github.com/vahidhedayati/grails-pluginbuddy-plugin</url>
+  </scm>
+  <dependencies />
+</project>
